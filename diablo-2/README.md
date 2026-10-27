@@ -1,9 +1,10 @@
 # Waypoint Unlock
 
-`python "C:\Users\nikol\Desktop\d2\unlock_waypoints.py" "C:\path\to\your\character.d2s"`
+From the repository root, run:
 
-It will create a file alongside the save named character_waypoints_unlocked.d2s. To choose a different output path, add it as a third argument:
+`python ".\diablo-2\unlock_waypoints.py" ".\path\to\your\character.d2s"`
 
-`python "C:\Users\nikol\Desktop\d2\unlock_waypoints.py" "C:\path\to\character.d2s" "C:\path\to\unlocked-character.d2s"`
+It will create a file alongside the save named `character_waypoints_unlocked.d2s`. To choose a different output path, add it as a third argument:
 
+`python ".\diablo-2\unlock_waypoints.py" ".\path\to\character.d2s" ".\path\to\unlocked-character.d2s"`
 
